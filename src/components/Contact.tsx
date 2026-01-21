@@ -56,10 +56,10 @@ export const Contact = () => {
       <div className="bg-white rounded-2xl border border-neutral-200 shadow-sm p-8">
         <div className="mb-8">
           <h2 className="text-2xl font-bold text-neutral-900 mb-2">
-            Let's Connect
+            Let&apos;s Connect
           </h2>
           <p className="text-sm text-neutral-600">
-            I'm open to exciting opportunities and collaborations. Feel free to reach out if you'd like to discuss potential roles or projects.
+            I&apos;m open to exciting opportunities and collaborations. Feel free to reach out if you&apos;d like to discuss potential roles or projects.
           </p>
         </div>
 

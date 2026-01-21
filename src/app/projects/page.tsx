@@ -23,7 +23,7 @@ export default function Projects() {
           </Heading>
           
           <Paragraph className="text-neutral-600 text-lg">
-            A showcase of projects I've built for startups, businesses, and clients. 
+            A showcase of projects I&apos;ve built for startups, businesses, and clients. 
             Each project reflects my approach to solving real-world problems with clean code and practical solutions.
           </Paragraph>
         </div>
