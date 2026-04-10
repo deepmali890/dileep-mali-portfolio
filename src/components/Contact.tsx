@@ -170,7 +170,7 @@ export const Contact = () => {
           <p className="text-xs text-neutral-500 text-center">
             I typically respond within 24 hours. You can also reach me directly at{" "}
             <a href="mailto:dilip@deeprise.in" className="text-neutral-900 font-medium hover:underline">
-              dilip@deeprise.in
+              hello@dileepmali.me
             </a>
           </p>
         </div>

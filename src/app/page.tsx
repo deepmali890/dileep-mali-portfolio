@@ -1,4 +1,4 @@
-'use client'
+"use client";
 import { Container } from "@/components/Container";
 import { Heading } from "@/components/Heading";
 import { Highlight } from "@/components/Highlight";
@@ -22,20 +22,21 @@ export default function Home() {
         </Heading>
 
         <Paragraph className="max-w-xl mt-4">
-          Founder of <Highlight>Deeprise Solution</Highlight>, a tech company
-          delivering high-quality websites, mobile applications, SEO services,
-          and graphic design solutions for startups and businesses.
+          A <Highlight>full-stack developer</Highlight> focused on building
+          production-ready applications — not just UI screens or isolated APIs,
+          but complete systems designed to perform reliably in real-world usage.
         </Paragraph>
 
         <Paragraph className="max-w-xl mt-4">
-          I&apos;m also a <Highlight>full-stack developer</Highlight> who enjoys
-          building scalable, secure, and performance-driven digital products
-          that solve real-world business problems.
+          I work across the entire stack, from modern frontend experiences using
+          React and Next.js to backend systems with Node.js, databases, and
+          scalable architecture. Every project I build is optimized for
+          performance, security, and long-term maintainability.
         </Paragraph>
 
         <Paragraph className="max-w-xl mt-4">
-          From idea validation to development and deployment, I help businesses
-          transform their vision into reliable and impactful software products.
+          My approach is simple — build software that solves real problems,
+          handles real users, and stays stable as it grows.
         </Paragraph>
 
         {/* Simple CTA Buttons */}
@@ -61,7 +62,7 @@ export default function Home() {
           as="h2"
           className="font-black text-lg md:text-lg lg:text-lg mb-4"
         >
-          What we&apos;re building at Deeprise Solution
+          Selected Work
         </Heading>
         <Products />
       </div>

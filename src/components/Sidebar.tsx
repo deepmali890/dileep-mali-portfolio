@@ -135,7 +135,7 @@ const SidebarHeader = () => {
       <div className="flex items-center gap-3 p-3 rounded-lg bg-neutral-50 border border-neutral-200">
         <div className="relative h-12 w-12 rounded-full flex-shrink-0">
           <Image
-            src="/images/Dilip.jpg"
+            src="/images/dileepmali.jpg"
             alt="Dilip Mali"
             fill
             className="rounded-full object-cover"
